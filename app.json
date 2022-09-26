@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "teht8",
+    "slug": "teht8",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
